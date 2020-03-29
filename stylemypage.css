@@ -1,0 +1,144 @@
+/*Tag*/
+
+body { 
+	background-image: url('bg.jpg'); 
+	background-size: 100%;
+}
+
+footer {
+	text-shadow: 1px 1px 1px #222222;
+ 	background-image: url('j.png');
+ 	background-size: 100%;
+ 	clear: both;
+ 	text-align: center;
+ 	padding: 10px 0 10px 0;
+}
+
+/*IDs*/
+
+#menu {
+	background-image: url('j.png');
+	height: 40px;
+	margin-top: 15px;
+	padding: 10px;
+	text-align: right;
+}
+
+#menu a {
+	padding: 10px 10px;
+	text-decoration: none;
+	font-size: 	25px;
+	color: #ffffff;
+	text-shadow: 1px 1px 1px #000000;
+
+}
+
+#perfil { 
+	text-align: center;
+}
+
+#nome {	
+	color: #000000;
+	text-shadow: 1px 1px 1px #ffffff;
+	text-align: center;
+	font-size: 100px
+}
+
+#frase {
+	color: #000000;
+	text-shadow: 1px 1px 1px #ffffff;
+	text-align: center;
+	font-size: 30px
+}
+
+#sobre { background-image: url('j.png'); 
+	background-size: 150%;
+	height: 450px;
+ }
+
+ #x {
+ 	font-size: 40px
+ }
+
+#t { font-family: 'Space Mono', monospace;  
+		color: #ffffff;
+		text-align: center;
+		text-shadow: 1px 1px 1px #000000;
+ }
+
+ #textosobre {
+ 	font-size: 25px;
+ 	margin: 50px 200px;
+ 	color: #ffffff;
+ 	text-shadow: 1px 1px 1px #000000;
+ }
+
+#formaçao { 
+	height: 450px;
+ }
+
+ #t2 { 
+ 	font-family: 'Space Mono', monospace;  
+	color: #000000;
+	text-align: center;
+	text-shadow: 1px 1px 1px #ffffff;
+ }
+
+#y {
+	font-size: 40px;
+}
+
+#textoformaçao {
+	font-size: 25px;
+	margin: 50px 200px;
+ 	color: #000000;
+ 	text-shadow: 1px 1px 1px #ffffff;
+}
+
+#objetivo { 
+	background-image: url('j.png'); 
+	background-size: 150%;
+	height: 450px;
+ }
+
+#t3 {
+	font-family: 'Space Mono', monospace;  
+	color: #ffffff;
+	text-align: center;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+#z { 
+	font-size: 40px;
+}
+
+#textoobjetivo {
+	font-size: 25px;
+ 	margin: 35px 200px;
+ 	color: #ffffff;
+ 	text-shadow: 1px 1px 1px #000000;
+}
+
+#curiosiades {
+	height: 450px;
+}
+
+#t4 {
+	font-family: 'Space Mono', monospace;  
+	color: #000000;
+	text-align: center;
+	text-shadow: 1px 1px 1px #ffffff;
+}
+
+#w {
+	font-size: 40px;
+}
+
+#textoc {
+	font-size: 25px;
+	margin: 50px 200px;
+ 	color: #000000;
+ 	text-shadow: 1px 1px 1px #ffffff;
+}
+
+
