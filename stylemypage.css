@@ -53,7 +53,7 @@ footer {
 
 #sobre { background-image: url('j.png'); 
 	background-size: 150%;
-	height: 450px;
+	min-height: 450px;
  }
 
  #x {
@@ -74,7 +74,7 @@ footer {
  }
 
 #formaçao { 
-	height: 450px;
+	min-height: 450px;
  }
 
  #t2 { 
@@ -98,7 +98,7 @@ footer {
 #objetivo { 
 	background-image: url('j.png'); 
 	background-size: 150%;
-	height: 450px;
+	min-height: 450px;
  }
 
 #t3 {
@@ -120,7 +120,7 @@ footer {
 }
 
 #curiosiades {
-	height: 450px;
+	min-height: 450px;
 }
 
 #t4 {
